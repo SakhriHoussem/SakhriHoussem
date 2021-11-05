@@ -44,7 +44,7 @@ jobs:
           echo $port \
           pwd  \
           grip $md localhost:$port & \
-          sleep 10 \
+          sleep 10 & \
           wkhtmltopdf http://localhost:$port $pdf \
           kill $(ps -eo pid,command | grep "grip" | grep -v grep | awk '{print $1}') \
       - uses: actions/upload-artifact@v2
