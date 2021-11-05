@@ -28,7 +28,7 @@ jobs:
         uses: actions/setup-python@v2.2.2
       - name: Setup Python
         uses: actions/setup-python@v2.2.2
-        
+
       # Runs a single command using the runners shell
       - name: install grip
         run: pip install grip
@@ -43,8 +43,15 @@ jobs:
           port=$(( ( RANDOM % 6000 )  + 5000 ))
 
           echo $port
-
+          $(pwd) 
+          
           grip $md localhost:$port &
           sleep 10
           wkhtmltopdf http://localhost:$port $pdf
           kill $(ps -eo pid,command | grep "grip" | grep -v grep | awk '{print $1}')
+          
+      - uses: actions/upload-artifact@v2
+        with:
+          name: my-artifact
+          path: ./README.pdf
+          if-no-files-found: error # 'warn' or 'ignore' are also available, defaults to `warn` 
