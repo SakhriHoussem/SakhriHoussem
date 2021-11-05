@@ -34,18 +34,9 @@ jobs:
         run: pip install grip
       - name: install wkhtmltopdf
         run: sudo apt-get install wkhtmltopdf
-      - name: install fontconfig
-        run:  sudo apt install fontconfig
-      - name: install Arial font 1
-        run: sudo apt install ttf-mscorefonts-installer
-      - name:  install Arial font 2
-        run: sudo fc-cache -f
-      - name:  check Arial font 2
-        run: fc-match Arial
 
       # Runs a set of commands using the runners shell
       
-      - uses: actions/checkout@v2
       - name: Run a multi-line script
         run: |
           sed 1,8d README.md > _README.md
