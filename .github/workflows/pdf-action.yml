@@ -40,8 +40,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run a multi-line script
         run: |
-          perl -0777 -pe 's/<header.*?<\/header>//gs' README.md && \
-          perl -0777 -pe 's/<header.*?<\/header>//gs' fr/README.md && \
+          perl -0777 -pe 's/<header.*?<\/header>//gs' README.md > README.md && \
+          perl -0777 -pe 's/<header.*?<\/header>//gs' fr/README.md > fr/README.md && \
           grip README.md --export README.html && \
           grip fr/index.md --export fr/README.html && \
           wkhtmltopdf README.html README.pdf  && \
