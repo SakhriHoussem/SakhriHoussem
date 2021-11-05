@@ -10,8 +10,6 @@
 
 </header>
 
-<body>
-
 ## ℹ️ ABOUT ME
 
 I'm **Sakhri Houssem Eddine** from algeria 🇩🇿, with 2+ years of experience in web developing.
@@ -84,5 +82,3 @@ Bachelor in computer science specializing in Data Information System at the Univ
 - Anglais	  GOOD
 - Français	GOOD
 - Arabe	    NATIVE
-
-</body>
