@@ -39,7 +39,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           md="README.md"
-          pdf="resume"
+          pdf="README.pdf"
           port=$(( ( RANDOM % 6000 )  + 5000 ))
 
           echo $port
