@@ -45,14 +45,14 @@ jobs:
           echo $(pwd) \
           ls \
           grip -v \
-          grip .\README.md --export .\README.html & \
-          echo $(cat .\README.html) \
+          grip .\README.md --export .\\README.html & \
+          echo $(cat .\\README.html) \
           sleep 10 & \
-          wkhtmltopdf .\README.html .\README.pdf & \
+          wkhtmltopdf .\\README.html .\\README.pdf & \
       - uses: actions/upload-artifact@v2
         with:
           name: my-artifact
           path: |
-              .\README.html
-              .\README.pdf
+              .\\README.html
+              .\\README.pdf
           if-no-files-found: error # 'warn' or 'ignore' are also available, defaults to `warn` 
