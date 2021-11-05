@@ -44,8 +44,8 @@ jobs:
           sed 1,8d fr/index.md > fr/_index.md
           grip _README.md --export README.html && \
           grip fr/_index.md --export fr/README.html && \
-          wkhtmltopdf README.html README.pdf --encoding 'UTF-8' && \
-          wkhtmltopdf fr/README.html fr/README.pdf --encoding 'UTF-8'
+          wkhtmltopdf --encoding 'UTF-8' README.html README.pdf && \
+          wkhtmltopdf --encoding 'UTF-8' fr/README.html fr/README.pdf 
       - name: Commit report
         run: |
           rm -rf README.html
