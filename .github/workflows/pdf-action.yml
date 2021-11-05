@@ -43,11 +43,12 @@ jobs:
         
           grip README.md --export README.html && \
           wkhtmltopdf README.html README.pdf  && \
-          grip fr/README.md --export fr/README.html && \
-          wkhtmltopdf fr/README.html fr/README.pdf
+          grip fr/index.md --export fr/README.html && \
+          wkhtmltopdf fr/index.html fr/README.pdf
       - name: Commit report
         run: |
           rm -rf README.html
+          rm -rf fr/README.html
           git config --global user.name 'Sakhri Houssem'
           git config --global user.email 's.houssem.e@gmail.com'
           git add README.pdf
