@@ -36,6 +36,8 @@ jobs:
         run: sudo apt-get install wkhtmltopdf
 
       # Runs a set of commands using the runners shell
+      
+      - uses: actions/checkout@v2
       - name: Run a multi-line script
         run: |
           md="README.md" \
@@ -49,6 +51,8 @@ jobs:
           echo $(cat README.html) \
           sleep 10 & \
           wkhtmltopdf .\README.html .\README.pdf & \
+          echo "-------------------------------" \
+          echo $(ls) \
       - uses: actions/upload-artifact@v2
         with:
           name: my-artifact
