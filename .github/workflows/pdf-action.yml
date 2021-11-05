@@ -40,10 +40,10 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run a multi-line script
         run: |
-          sed 1,8d README.md
-          sed 1,8d fr/index.md
-          grip README.md --export README.html && \
-          grip fr/index.md --export fr/README.html && \
+          sed 1,8d README.md > _README.md
+          sed 1,8d fr/index.md > fr/_index.md
+          grip _README.md --export README.html && \
+          grip fr/_index.md --export fr/README.html && \
           wkhtmltopdf README.html README.pdf  && \
           wkhtmltopdf fr/README.html fr/README.pdf
       - name: Commit report
