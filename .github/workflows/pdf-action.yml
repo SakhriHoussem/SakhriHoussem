@@ -44,11 +44,12 @@ jobs:
           echo $port \
           pwd \
           ls \
-          grip README.md --export README.html & \
+          grip -v \
+          grip .\README.md --export .\README.html & \
           sleep 10 & \
-          wkhtmltopdf README.html README.pdf & \
+          wkhtmltopdf .\README.html .\README.pdf & \
       - uses: actions/upload-artifact@v2
         with:
           name: my-artifact
-          path: README.pdf
+          path: .\README.pdf
           if-no-files-found: error # 'warn' or 'ignore' are also available, defaults to `warn` 
