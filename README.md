@@ -3,6 +3,11 @@
 **[🇺🇸](https://sakhrihoussem.github.io/SakhriHoussem)**
 [🇫🇷](https://sakhrihoussem.github.io/SakhriHoussem/fr)
 
+#### ⬇️ Download PDF version
+ **[click here](README.pdf)**
+
+## ℹ️ ABOUT ME
+
 I'm **Sakhri Houssem Eddine** from algeria 🇩🇿, with 2+ years of experience in web developing.
 
 
@@ -41,7 +46,7 @@ Bachelor in computer science specializing in Data Information System at the Univ
 
 ## 🔧 SKILLS
 
-#### Langage de Programmation
+#### Programming language
 - PHP (Symfony, Laravel).
 - JavaScript (JQuery, ReactJs, VueJs).
 - Python.

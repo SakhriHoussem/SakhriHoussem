@@ -3,6 +3,11 @@
 [🇺🇸](https://sakhrihoussem.github.io/SakhriHoussem)
 **[🇫🇷](https://sakhrihoussem.github.io/SakhriHoussem/fr)**
 
+#### ⬇️ Télécharger la version PDF
+ **[click ici](README.pdf)**
+
+## ℹ️ À propos moi
+
 Je suis **Sakhri Houssem Eddine** d'Algérie 🇩🇿 avec plus de 2 ans d'expérience dans le développement Web.
 
 ## 💼 Expériences
