@@ -50,6 +50,6 @@ jobs:
         with:
           name: my-artifact
           path: |
-            html
-            pdf
+            $html
+            $pdf
           if-no-files-found: error # 'warn' or 'ignore' are also available, defaults to `warn` 
