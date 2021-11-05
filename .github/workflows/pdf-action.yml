@@ -44,7 +44,7 @@ jobs:
           grip README.md --export README.html && \
           wkhtmltopdf README.html README.pdf  && \
           grip fr/index.md --export fr/README.html && \
-          wkhtmltopdf fr/index.html fr/README.pdf
+          wkhtmltopdf fr/README.html fr/README.pdf
       - name: Commit report
         run: |
           rm -rf README.html
