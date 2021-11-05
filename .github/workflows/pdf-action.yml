@@ -42,10 +42,10 @@ jobs:
           pdf="README.pdf" \
           html="README.html" \
           echo $port \
-          echo $(pwd) \
-          ls \
-          grip -v \
+          echo $(pwd) \ 
           grip .\README.md --export .\README.html & \
+          echo "-------------------------------" \
+          echo $(ls) \
           echo $(cat README.html) \
           sleep 10 & \
           wkhtmltopdf .\README.html .\README.pdf & \
