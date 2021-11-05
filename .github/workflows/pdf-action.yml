@@ -42,6 +42,11 @@ jobs:
         run: |
           grip README.md --export README.html && \
           wkhtmltopdf README.html README.pdf
+      - name: Commit report
+        run: |
+          rm -rf README.html
+          git commit -am "Generate PDF"
+          git push
       - uses: actions/upload-artifact@v2
         with:
           name: my-resume
