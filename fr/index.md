@@ -1,5 +1,3 @@
-<div>
-
 ## Salut 👋
 
 [🇺🇸](https://sakhrihoussem.github.io/SakhriHoussem)
@@ -7,8 +5,6 @@
 
 #### ⬇️ Télécharger la version PDF
  **[click ici](README.pdf)**
-
-</div>
 
 ## ℹ️ À propos moi
 
