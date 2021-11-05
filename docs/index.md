@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+## Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/SakhriHoussem/SakhriHoussem/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+I'm **Sakhri Houssem Eddine** from algeria :algeria:, with 2+ years of experience in web developing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## :briefcase: CAREER
 
-# Header 1
-## Header 2
-### Header 3
+### **Web developer** at [EmploiPartner](https://www.emploiPartner.com)
+###### _October 2020 until today in Algiers, Algeria_
 
-- Bulleted
-- List
+- Maintenance, improvement and addition of new functionality to [emploiPartner.com](https://www.emploiPartner.com) site ([Symfony 4](https://symfony.com), [JQuery](https://jquery.com)).
+- Maintenance and bug fixes.
+- Develop web applications ([Symfony 4](https://symfony.com), [Symfony 5](https://symfony.com) and [API Platform](https://api-platform.com), [React js](https://reactjs.org)).
+- make changes on Wordpress templates ([php](https://www.php.net), [css](https://www.w3.org/Style/CSS/Overview.en.html)).
+- integration of the [docker](https://www.docker.com) to the company's development environment.
+- integration of [Satim payment system](https://www.satim.dz/z).
+- use [OpenProject](https://www.openproject.org/) for task management.
 
-1. Numbered
-2. List
+### **Web developer** at AHSB communication
+###### _November 2018 to December 2018 in Algiers, Algeria_ 
 
-**Bold** and _Italic_ and `Code` text
+- Perform unit tests under the supervision of the [IANDI](http://iandi.fr/) team on their Platform 1SPECT using [PHP Unit](https://phpunit.de) on [Symfony 3](https://symfony.com/doc/3.0/page_creation.html).
+- Develop websites using [Ez-platform](https://www.ezplatform.com) technology.
+- Use [YouTrack](https://www.jetbrains.com/youtrack) for task management.
+- Using [Sourcethree](https://www.ezplatform.com) for version control.
 
-[Link](url) and ![Image](src)
-```
+## :mortar_board:  EDUCATION
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Master degree in computer science
+###### _September 2016 to June 2018 in Oran, Algeria_
 
-### Jekyll Themes
+Master degree in computer science specializing in Data Information System at the University of Science and Technology-Mohamed Boudiaf.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SakhriHoussem/SakhriHoussem/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Bachelor in computer science
+###### _September 2013 to June 2016 in Oran, Algeria_
 
-### Support or Contact
+Bachelor in computer science specializing in Data Information System at the University of Science and Technology-Mohamed Boudiaf.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## :wrench:  SKILLS
+
+#### Langage de Programmation
+- PHP (Symfony, Laravel).
+- JavaScript (JQuery, ReactJs, VueJs).
+- Python.
+####	DevOps
+- Docker
+#### Technologie du Web
+- HTML5.
+- CSS3.
+- SASS.
+- Bootstrap.
+- Foundation.
+- KNACSS.
+#### Operating system
+- Unix (Ubuntu)
+- Windows
+#### SGBD
+- MySQL.
+- Oracle.
+- PostgreSQL.
+- Sqlite.
+- Cassandra.
+#### Tools
+- Git.
+- Adobe Illustrator.
+- JetBrains.
+
+## :microphone:  LANGUAGE
+
+- Anglais	  GOOD
+- Français	GOOD
+- Arabe	    NATIVE
