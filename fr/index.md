@@ -10,6 +10,8 @@
 
 </header>
 
+<body>
+
 ## ℹ️ À propos moi
 
 Je suis **Sakhri Houssem Eddine** d'Algérie 🇩🇿 avec plus de 2 ans d'expérience dans le développement Web.
@@ -81,4 +83,6 @@ Licence en informatique spécialité System d’information de données à l’u
 
 - Anglais	Bien
 - Français	Bien
-- Arabe	    langue maternelle
+- Arabe	    Langue maternelle
+
+</body>
