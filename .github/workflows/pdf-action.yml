@@ -43,20 +43,13 @@ jobs:
           md="README.md" \
           pdf="README.pdf" \
           html="README.html" \
-          echo $port \
-          echo $(pwd) \ 
-          grip ./README.md --export ./README.html && \
-          echo "-------------------------------" \
-          echo $(ls) \
-          echo $(cat ./README.html) \
+          grip pdf --export html && \
           sleep 10 && \
-          wkhtmltopdf ./README.html ./README.pdf && \
-          echo "-------------------------------" \
-          echo $(ls) \
+          wkhtmltopdf html pdf && \
       - uses: actions/upload-artifact@v2
         with:
           name: my-artifact
           path: |
-              ./README.html
-              ./README.pdf
+            html
+            pdf
           if-no-files-found: error # 'warn' or 'ignore' are also available, defaults to `warn` 
