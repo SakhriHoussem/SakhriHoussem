@@ -40,9 +40,8 @@ jobs:
         run: |
           md="README.md" \
           pdf="README.pdf" \
-          port=$(( ( RANDOM % 6000 )  + 5000 )) \
+          port=5005 \
           echo $port \
-          pwd  \
           grip $md localhost:$port & \
           sleep 10 & \
           wkhtmltopdf http://localhost:$port $pdf \
