@@ -2,7 +2,7 @@
 
 
 
-I'm **Sakhri Houssem Eddine** from algeria :algeria:, with 2+ years of experience in web developing.
+I'm **Sakhri Houssem Eddine** from algeria 🇩🇿, with 2+ years of experience in web developing.
 
 
 ## 💼 CAREER
@@ -44,9 +44,9 @@ Bachelor in computer science specializing in Data Information System at the Univ
 - PHP (Symfony, Laravel).
 - JavaScript (JQuery, ReactJs, VueJs).
 - Python.
-####	DevOps
+#### DevOps
 - Docker
-#### Technologie du Web
+#### Web Technology
 - HTML5.
 - CSS3.
 - SASS.
