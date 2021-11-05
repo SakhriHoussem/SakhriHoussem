@@ -45,7 +45,10 @@ jobs:
       - name: Commit report
         run: |
           rm -rf README.html
-          git commit -am "Generate PDF"
+          git config --global user.name 'Sakhri Houssem'
+          git config --global user.email 's.houssem.e@gmail.com'
+          
+          git commit -am "Generate PDF (github action)"
           git push
       - uses: actions/upload-artifact@v2
         with:
