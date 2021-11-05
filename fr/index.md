@@ -1,4 +1,4 @@
-<header>
+<div>
 
 ## Salut 👋
 
@@ -8,7 +8,7 @@
 #### ⬇️ Télécharger la version PDF
  **[click ici](README.pdf)**
 
-</header>
+</div>
 
 ## ℹ️ À propos moi
 
