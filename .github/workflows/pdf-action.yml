@@ -40,10 +40,11 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run a multi-line script
         run: |
-        
           grip README.md --export README.html && \
-          wkhtmltopdf README.html README.pdf  && \
           grip fr/index.md --export fr/README.html && \
+          perl -0777 -pe 's/<header.*?<\/header>//gs' README.html && \
+          perl -0777 -pe 's/<header.*?<\/header>//gs' fr/README.html && \
+          wkhtmltopdf README.html README.pdf  && \
           wkhtmltopdf fr/README.html fr/README.pdf
       - name: Commit report
         run: |
