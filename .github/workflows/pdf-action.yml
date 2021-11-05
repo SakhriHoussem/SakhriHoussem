@@ -45,12 +45,12 @@ jobs:
           html="README.html" \
           echo $port \
           echo $(pwd) \ 
-          grip ./README.md --export ./README.html & \
+          grip ./README.md --export ./README.html && \
           echo "-------------------------------" \
           echo $(ls) \
           echo $(cat ./README.html) \
-          sleep 10 & \
-          wkhtmltopdf ./README.html ./README.pdf & \
+          sleep 10 && \
+          wkhtmltopdf ./README.html ./README.pdf && \
           echo "-------------------------------" \
           echo $(ls) \
       - uses: actions/upload-artifact@v2
