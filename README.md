@@ -5,7 +5,7 @@
 I'm **Sakhri Houssem Eddine** from algeria :algeria:, with 2+ years of experience in web developing.
 
 
-## :briefcase: CAREER
+## 💼 CAREER
 
 ### **Web developer** at [EmploiPartner](https://www.emploiPartner.com)
 ###### _October 2020 until today in Algiers, Algeria_
@@ -26,7 +26,7 @@ I'm **Sakhri Houssem Eddine** from algeria :algeria:, with 2+ years of experienc
 - Use [YouTrack](https://www.jetbrains.com/youtrack) for task management.
 - Using [Sourcethree](https://www.ezplatform.com) for version control.
 
-## :mortar_board:  EDUCATION
+## 🎓 EDUCATION
 
 ### Master degree in computer science
 ###### _September 2016 to June 2018 in Oran, Algeria_
@@ -38,7 +38,7 @@ Master degree in computer science specializing in Data Information System at the
 
 Bachelor in computer science specializing in Data Information System at the University of Science and Technology-Mohamed Boudiaf.
 
-## :wrench:  SKILLS
+## 🔧 SKILLS
 
 #### Langage de Programmation
 - PHP (Symfony, Laravel).
@@ -67,7 +67,7 @@ Bachelor in computer science specializing in Data Information System at the Univ
 - Adobe Illustrator.
 - JetBrains.
 
-## :microphone:  LANGUAGE
+## 🎤 LANGUAGE
 
 - Anglais	  GOOD
 - Français	GOOD
