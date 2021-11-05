@@ -45,8 +45,7 @@ jobs:
           html="README.html" \
           grip $md --export $html && \
           ls && \
-          sleep 10 && \
-          wkhtmltopdf "$html" "$pdf"
+          wkhtmltopdf $html $pdf
       - uses: actions/upload-artifact@v2
         with:
           name: my-artifact
