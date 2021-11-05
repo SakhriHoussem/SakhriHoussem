@@ -40,12 +40,12 @@ jobs:
         run: |
           md="README.md" \
           pdf="README.pdf" \
+          html="README.html" \
           port=5005 \
           echo $port \
-          grip $md localhost:$port & \
+          grip .\README.md --export $html & \
           sleep 10 & \
-          wkhtmltopdf http://localhost:$port $pdf \
-          kill $(ps -eo pid,command | grep "grip" | grep -v grep | awk '{print $1}') \
+          wkhtmltopdf $html $pdf & \
       - uses: actions/upload-artifact@v2
         with:
           name: my-artifact
