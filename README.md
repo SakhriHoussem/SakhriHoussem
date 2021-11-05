@@ -8,9 +8,7 @@ I'm **Sakhri Houssem Eddine** from algeria :algeria:, with 2+ years of experienc
 ## :briefcase: CAREER
 
 ### **Web developer** at [EmploiPartner](https://www.emploiPartner.com)
-_October 2020 until today_
-
-_Algiers, Algeria_
+###### _October 2020 until today in Algiers, Algeria_
 
 - Maintenance, improvement and addition of new functionality to [emploiPartner.com](https://www.emploiPartner.com) site ([Symfony 4](https://symfony.com), [JQuery](https://jquery.com)).
 - Maintenance and bug fixes.
@@ -21,9 +19,7 @@ _Algiers, Algeria_
 - use [OpenProject](https://www.openproject.org/) for task management.
 
 ### **Web developer** at AHSB communication
-_November 2018 to December 2018_
-
-_Algiers, Algeria_ 
+###### _November 2018 to December 2018 in Algiers, Algeria_ 
 
 - Perform unit tests under the supervision of the [IANDI](http://iandi.fr/) team on their Platform 1SPECT using [PHP Unit](https://phpunit.de) on [Symfony 3](https://symfony.com/doc/3.0/page_creation.html).
 - Develop websites using [Ez-platform](https://www.ezplatform.com) technology.
@@ -33,32 +29,23 @@ _Algiers, Algeria_
 ## :mortar_board:  EDUCATION
 
 ### Master degree in computer science
-_September 2016 to June 2018_
-
-_Oran, Algeria_
+###### _September 2016 to June 2018 in Oran, Algeria_
 
 Master degree in computer science specializing in Data Information System at the University of Science and Technology-Mohamed Boudiaf.
 
 ### Bachelor in computer science
-_September 2013 to June 2016_
-
-_Oran, Algeria_
+###### _September 2013 to June 2016 in Oran, Algeria_
 
 Bachelor in computer science specializing in Data Information System at the University of Science and Technology-Mohamed Boudiaf.
 
 ## :wrench:  SKILLS
 
 #### Langage de Programmation
-
 - PHP (Symfony, Laravel).
-
 - JavaScript (JQuery, ReactJs, VueJs).
-
 - Python.
-
 ####	DevOps
 - Docker
-
 #### Technologie du Web
 - HTML5.
 - CSS3.
@@ -66,18 +53,15 @@ Bachelor in computer science specializing in Data Information System at the Univ
 - Bootstrap.
 - Foundation.
 - KNACSS.
-
 #### Operating system
 - Unix (Ubuntu)
 - Windows
-
 #### SGBD
 - MySQL.
 - Oracle.
 - PostgreSQL.
 - Sqlite.
 - Cassandra.
-
 #### Tools
 - Git.
 - Adobe Illustrator.
@@ -85,8 +69,6 @@ Bachelor in computer science specializing in Data Information System at the Univ
 
 ## :microphone:  LANGUAGE
 
-Anglais	GOOD
-
-Français	GOOD
-
-Arabe	NATIVE
+- Anglais	  GOOD
+- Français	GOOD
+- Arabe	    NATIVE
