@@ -47,8 +47,6 @@ jobs:
           wkhtmltopdf --encoding 'UTF-8' fr/README.html fr/README.pdf 
       - name: Commit report
         run: |
-          rm -rf README.html
-          rm -rf fr/README.html
           git config --global user.name 'Sakhri Houssem'
           git config --global user.email 's.houssem.e@gmail.com'
           git add README.pdf
@@ -60,5 +58,7 @@ jobs:
           name: my-resume
           path: |
             README.pdf
+            README.html
+            fr/README.html
             fr/README.pdf
           if-no-files-found: error # 'warn' or 'ignore' are also available, defaults to `warn` 
