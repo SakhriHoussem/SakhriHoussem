@@ -13,7 +13,7 @@ Je suis **Sakhri Houssem Eddine** d'Algérie 🇩🇿 avec plus de 2 ans d'expé
 ## 💼 Expériences
 
 ### **Web développeur** at [EmploiPartner](https://www.emploiPartner.com)
-###### _Octobre 2020 à aujourd'hui à Alger, Algérie_
+###### _De octobre 2020 à aujourd'hui à Alger, Algérie_
 
 
 - Maintenance, amélioration et ajout de nouveaux fonctionnalité sur le site [emploiPartner.com](https://www.emploiPartner.com) ([Symfony 4](https://symfony.com), [JQuery](https://jquery.com)).
@@ -25,7 +25,7 @@ Je suis **Sakhri Houssem Eddine** d'Algérie 🇩🇿 avec plus de 2 ans d'expé
 - Utiliser [OpenProject](https://www.openproject.org/) pour gestion des taches.
 
 ### **Web développeur** at AHSB communication
-###### _November 2018 to December 2018 in Algiers, Algeria_ 
+###### _De november 2018 to December 2018 in Algiers, Algeria_ 
 
 - Faire les tests unitaires sous la supervision de l’équipe  [IANDI](http://iandi.fr/) sur leur Platform 1SPECT utilisant [PHP Unit](https://phpunit.de) on [Symfony 3](https://symfony.com/doc/3.0/page_creation.html).
 - Développer des sites web utilisant la technologie [Ez-platform](https://www.ezplatform.com).
@@ -53,21 +53,10 @@ Licence en informatique spécialité System d’information de données à l’u
 #### DevOps
 - Docker
 #### Technologie du Web
-- HTML5.
-- CSS3.
+- HTML5 CSS3 ( Bootstrap, Foundation, KNACSS ).
 - SASS.
-- Bootstrap.
-- Foundation.
-- KNACSS.
-#### Système d’exploitation
-- Unix (Ubuntu)
-- Windows
 #### SGBD
 - MySQL.
-- Oracle.
-- PostgreSQL.
-- Sqlite.
-- Cassandra.
 #### Outils
 - Git.
 - Adobe Illustrator.

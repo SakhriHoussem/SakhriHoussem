@@ -53,21 +53,10 @@ Bachelor in computer science specializing in Data Information System at the Univ
 #### DevOps
 - Docker
 #### Web Technology
-- HTML5.
-- CSS3.
+- HTML5 CSS3 ( Bootstrap, Foundation, KNACSS ).
 - SASS.
-- Bootstrap.
-- Foundation.
-- KNACSS.
-#### Operating system
-- Unix (Ubuntu)
-- Windows
 #### SGBD
 - MySQL.
-- Oracle.
-- PostgreSQL.
-- Sqlite.
-- Cassandra.
 #### Tools
 - Git.
 - Adobe Illustrator.
@@ -75,6 +64,6 @@ Bachelor in computer science specializing in Data Information System at the Univ
 
 ## 🎤 LANGUAGE
 
-- Anglais	  GOOD
+- Anglais	GOOD
 - Français	GOOD
 - Arabe	    NATIVE
