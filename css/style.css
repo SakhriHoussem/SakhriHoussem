@@ -19,7 +19,7 @@ h5 {
     color: #3399ff;
 }
 
-h6 {
+h6, em {
     color: #66b2ff;
-    margin-top: 0 !important;
+    margin-top: 5px !important;
 }
