@@ -15,7 +15,6 @@ Je suis **Sakhri Houssem Eddine** d'Algérie 🇩🇿 avec plus de 2 ans d'expé
 ### **Web développeur** at [EmploiPartner](https://www.emploiPartner.com)
 ###### _De octobre 2020 à aujourd'hui à Alger, Algérie_
 
-
 - Maintenance, amélioration et ajout de nouveaux fonctionnalité sur le site [emploiPartner.com](https://www.emploiPartner.com) ([Symfony 4](https://symfony.com), [JQuery](https://jquery.com)).
 - Maintenance et correctifs de bugs.
 - Développer des applications web ([Symfony 4](https://symfony.com), [Symfony 5](https://symfony.com) and [API Platform](https://api-platform.com), [React js](https://reactjs.org)).
