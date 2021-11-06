@@ -43,10 +43,10 @@ jobs:
           sed 1,8d fr/index.md > fr/_index.md
           grip _README.md --export README.html --title=" " && \
           grip fr/_index.md --export fr/README.html --title=" " && \
-          perl -0777 -pe 's/<g-emoji.*?<\/g-emoji>//gs' README.html && \
-          perl -0777 -pe 's/<g-emoji.*?<\/g-emoji>//gs' fr/README.html && \
-          wkhtmltopdf --user-style-sheet css/style.css --encoding 'UTF-8' README.html README.pdf && \
-          wkhtmltopdf --user-style-sheet css/style.css --encoding 'UTF-8' fr/README.html fr/README.pdf 
+          perl -0777 -pe 's/<g-emoji.*?<\/g-emoji>//gs' README.html > _README.html && \
+          perl -0777 -pe 's/<g-emoji.*?<\/g-emoji>//gs' fr/README.html fr/_README.html && \
+          wkhtmltopdf --user-style-sheet css/style.css --encoding 'UTF-8' _README.html README.pdf && \
+          wkhtmltopdf --user-style-sheet css/style.css --encoding 'UTF-8' fr/_README.html fr/README.pdf 
       - name: Commit report
         run: |
           git config --global user.name 'Sakhri Houssem'
