@@ -4,7 +4,7 @@
 **[🇫🇷](https://sakhrihoussem.github.io/SakhriHoussem/fr)**
 
 #### ⬇️ Télécharger la version PDF
- **[click ici](README.pdf)**
+ **[Cliquez ici](README.pdf)**
 
 ## ℹ️ À propos moi
 
