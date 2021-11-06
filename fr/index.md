@@ -46,18 +46,18 @@ Licence en informatique spécialité System d’information de données à l’u
 
 ## 🔧 Compétences
 
-#### Langage de Programmation
+### Langage de Programmation
 - PHP (Symfony, Laravel).
 - JavaScript (JQuery, ReactJs, VueJs).
 - Python.
-#### DevOps
+### DevOps
 - Docker
-#### Technologie du Web
+### Technologie du Web
 - HTML5 CSS3 ( Bootstrap, Foundation, KNACSS ).
 - SASS.
-#### SGBD
+### SGBD
 - MySQL.
-#### Outils
+### Outils
 - Git.
 - Adobe Illustrator.
 - JetBrains.

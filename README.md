@@ -46,18 +46,18 @@ Bachelor in computer science specializing in Data Information System at the Univ
 
 ## 🔧 SKILLS
 
-#### Programming language
+### Programming language
 - PHP (Symfony, Laravel).
 - JavaScript (JQuery, ReactJs, VueJs).
 - Python.
-#### DevOps
+### DevOps
 - Docker
-#### Web Technology
+### Web Technology
 - HTML5 CSS3 ( Bootstrap, Foundation, KNACSS ).
 - SASS.
-#### SGBD
+### SGBD
 - MySQL.
-#### Tools
+### Tools
 - Git.
 - Adobe Illustrator.
 - JetBrains.
