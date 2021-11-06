@@ -5,6 +5,7 @@ h1 {
 h2 {
     color: #004c99;
     border-left: 5px solid #004c99;
+    border-bottom: 5px solid #004c99;
     padding-left: 10px;
 }
 
