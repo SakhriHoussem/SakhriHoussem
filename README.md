@@ -22,6 +22,7 @@ I'm **Sakhri Houssem Eddine** from algeria 🇩🇿, with 2+ years of experience
 - integration of the [docker](https://www.docker.com) to the company's development environment.
 - integration of [Satim payment system](https://www.satim.dz/z).
 - use [OpenProject](https://www.openproject.org/) for task management.
+- code review and approve merge requests in some projects
 
 ### **Web developer** at AHSB communication
 ###### _November 2018 to December 2018 in Algiers, Algeria_ 
