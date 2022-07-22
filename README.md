@@ -8,7 +8,7 @@
 
 ## ℹ️ ABOUT ME
 
-I'm **Sakhri Houssem Eddine** from algeria 🇩🇿, with 2+ years of experience in web development.
+I'm **Sakhri Houssem Eddine** from algeria 🇩🇿, with 3+ years of experience in web development.
 
 ## 💼 CAREER
 
