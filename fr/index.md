@@ -22,6 +22,7 @@ Je suis **Sakhri Houssem Eddine** d'Algérie 🇩🇿 avec plus de 2 ans d'expé
 - intégration du [docker](https://www.docker.com) dans l'enivrement de développement de l'entreprise.
 - Intégration du [système de paiement Satim](https://www.satim.dz).
 - Utiliser [OpenProject](https://www.openproject.org/) pour gestion des taches.
+- révision du code et approbation des demandes de fusion dans certains projets
 
 ### **Web développeur** at AHSB communication
 ###### _De november 2018 to December 2018 in Algiers, Algeria_ 
