@@ -15,13 +15,13 @@ Je suis **Sakhri Houssem Eddine** d'Algérie 🇩🇿 avec plus de 3 ans d'expé
 ### **Web développeur** at [EmploiPartner](https://www.emploiPartner.com)
 ###### _De octobre 2020 à aujourd'hui à Alger, Algérie_
 
+- collaborer à 3 projets à partir de zéro ([Symfony](https://symfony.com) and [API Platform](https://api-platform.com), [React js](https://reactjs.org)) et 3 anciens projets de l entreprise.
 - Maintenance, amélioration et ajout de nouveaux fonctionnalité sur le site [emploiPartner.com](https://www.emploiPartner.com) ([Symfony 4](https://symfony.com), [JQuery](https://jquery.com)).
 - Maintenance et correctifs de bugs.
-- Développer des applications web ([Symfony 4](https://symfony.com), [Symfony 5](https://symfony.com) and [API Platform](https://api-platform.com), [React js](https://reactjs.org)).
-- Faire des changements sur des templates Wordpress ([php](https://www.php.net), [css](https://www.w3.org/Style/CSS/Overview.en.html)).
-- intégration du [docker](https://www.docker.com) dans l'enivrement de développement de l'entreprise.
-- Intégration du [système de paiement Satim](https://www.satim.dz).
-- Utiliser [OpenProject](https://www.openproject.org/) pour gestion des taches.
+- Relier le formulaire de postulation du site wordpress [huntead.com](https://www.huntead.com) avec l'api du site [emploiPartner.com](https://www.emploiPartner.com) ([php](https://www.php.net), [css](https://www.w3.org/Style/CSS/Overview.en.html)).
+- Intégration et la mise a jour du [docker](https://www.docker.com) dans les projets de l'entreprise.
+- Intégration du [système de paiement Satim](https://www.satim.dz) pour un client de l'entreprise
+- Utiliser [OpenProject](https://www.openproject.org/) pour gestion des projets.
 - révision du code et approbation des demandes de fusion dans certains projets
 
 ### **Web développeur** at AHSB communication
